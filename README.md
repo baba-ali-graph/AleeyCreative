@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baba Ali</h1>
 <h3 align="center">A software developer who is passionate about solving problems with technology.</h3>
-<p align="left"> <a href="https://twitter.com/aleeycreative" target="blank"><img src="https://img.shields.io/twitter/follow/aleeycreative?logo=twitter&style=for-the-badge" alt="aleeycreative" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/aleeycreative" target="blank"><img src="https://img.shields.io/twitter/follow/aleeycreative?logo=twitter&style=for-the-badge" alt="aleeycreative" /></a> </p> -->
 
 <p> Hello there and welcome to my repository. I am a nifty software developer who likes crafting things with code that would make people's life easier. From interactive application to automated workflows, I like tinkering here and there in a bid to build something that solves problems. </p>
 
