@@ -8,7 +8,7 @@
 
 - 📝 I sometimes write articles on [https://b6i.hashnode.dev](https://b6i.hashnode.dev)
 
-- 💬 Ask me about **React, Redux and Tailwind**
+- 💬 Ask me about **React, Node and Typescript**
 
 - 📫 How to reach me **babaali196@gmail.com**
 
