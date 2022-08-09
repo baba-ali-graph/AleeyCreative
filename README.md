@@ -4,7 +4,7 @@
 
 <p> Hello there and welcome to my repository. I am a nifty software developer who likes crafting things with code that would make people's life easier. From interactive application to automated workflows, I like tinkering here and there in a bid to build something that solves problems. </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aleeycreative](https://github.com/Aleeycreative)
+- 👨‍💻 My personal projects are available at [https://github.com/Aleeycreative](https://github.com/Aleeycreative)
 
 - 📝 I sometimes write articles on [https://b6i.hashnode.dev](https://b6i.hashnode.dev)
 
