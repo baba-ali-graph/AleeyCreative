@@ -6,8 +6,6 @@
 
 - 👨‍💻 My personal projects are available at [https://github.com/Aleeycreative](https://github.com/Aleeycreative)
 
-- 📝 I sometimes write articles on [https://b6i.hashnode.dev](https://b6i.hashnode.dev)
-
 - 💬 Ask me about **React, Node and Typescript**
 
 - 📫 How to reach me **babaali196@gmail.com**
